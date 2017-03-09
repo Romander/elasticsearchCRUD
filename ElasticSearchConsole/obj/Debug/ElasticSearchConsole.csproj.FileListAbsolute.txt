@@ -1,0 +1,14 @@
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\ElasticSearchConsole.exe.config
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\ElasticSearchConsole.exe
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\ElasticSearchConsole.pdb
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Elasticsearch.Net.dll
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Elasticsearch.Net.pdb
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Elasticsearch.Net.xml
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\obj\Debug\ElasticSearchConsole.csprojResolveAssemblyReference.cache
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\obj\Debug\ElasticSearchConsole.exe
+c:\users\roman_ogoreltcev\documents\visual studio 2015\Projects\ElasticSearch\ElasticSearchConsole\obj\Debug\ElasticSearchConsole.pdb
+C:\Users\Roman_Ogoreltcev\Documents\Visual Studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Nest.dll
+C:\Users\Roman_Ogoreltcev\Documents\Visual Studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roman_Ogoreltcev\Documents\Visual Studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Nest.pdb
+C:\Users\Roman_Ogoreltcev\Documents\Visual Studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Nest.xml
+C:\Users\Roman_Ogoreltcev\Documents\Visual Studio 2015\Projects\ElasticSearch\ElasticSearchConsole\bin\Debug\Newtonsoft.Json.xml
